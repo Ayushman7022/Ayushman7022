@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Navigation Bars**
+- 🔭 I’m currently exploring on **Machine learning**
 
-- 🌱 I’m currently learning **HTML, CSS , PYTHON, C**
+- 🌱 Skills I have **HTML, CSS , PYTHON, C, Cpp , Java**
 
 - 💬 Ask me about **I,ll keep that up to you**
 
 - 📫 How to reach me **bhattacharyaa001@gmail.com**
 
-- ⚡ Fun fact **I don't think so im fuuny**
+- ⚡ Fun fact **After learning all this still i noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
