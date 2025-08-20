@@ -93,5 +93,4 @@
   <a href="https://instagram.com/ayushman7022" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushman7022" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/@bhattacharyaa001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhattacharyaa001" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/bhattacharyaa001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bhattacharyaa001" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-username" target="blank"><img src="https://img.shields.io/twitter/follow/your-username?logo=x&style=for-the-badge" alt="twitter-follow" /></a>
 </p>
